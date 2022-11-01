@@ -2,9 +2,9 @@
 
 ## Squad
 1. Eduardo Moreira
-	2. Cursando: Analíse e Desenvolvimento de Sistemas
-	3. Conhecimentos: HTML, CSS, NODE
-	4. Disponibilidade: Tarde/Noite
+	1. Cursando: Analíse e Desenvolvimento de Sistemas
+	2. Conhecimentos: HTML, CSS, NODE
+	3. Disponibilidade: Tarde/Noite
 
 2. Érica Marcondes
 	1. Cursando: Analíse e Desenvolvimento de Sistemas
@@ -70,4 +70,4 @@
 	1. Especialidades:
 		1. PHP
 		2. Javascript
-
+git 
