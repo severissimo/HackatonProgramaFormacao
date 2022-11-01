@@ -8,14 +8,14 @@
 
 2. Érica Marcondes
 	1. Cursando: Analíse e Desenvolvimento de Sistemas
-	2. Interesses: Front
-	3. Conhecimentos: C, aprendendo C#
+	2. Conhecimentos: C, aprendendo C#
+	3. Interesses: Front
 	4. Disponibilidade: 
         Segunda à Quinta: 13 às 15, 18 às 19. 
         Sexta : Total
 
 3. Severo
-	1. Cursando:Um curso de Fullstack na Udemy
+	1. Cursando: Curso de Fullstack
 	2. Conhecimentos: Javascript, Cypress
 	3. Interesses: Qualidade e Data Science
 	4. Disponibilidade: Tarde / Noite
@@ -23,6 +23,12 @@
 4. Tatiana Ursini
 	1. 1 ano de Estudo de UX
 	2. Disponibilidade: Total
+
+5. Breno Felix 
+	1. Cursando: Curso Fullstack (React, Node, Docker, PostgreSQL, outros) 
+	2. Conhecimento: C C++, Ruby on rails, CSS, HTML, JS, React, Node, API com axios.. 
+	3. Interesse: React, Node, axios, Docker
+	4. Disponibilidade: Total
 
 ## Mentores
 
